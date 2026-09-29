@@ -1,28 +1,89 @@
-<h1 align="center">Hi 👋, I'm Shivam Tiwari</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisshivamtiwari&label=Profile%20views&color=0e75b6&style=flat" alt="thisisshivamtiwari" /> </p>
+<!-- Profile README for github.com/thisisshivamtiwari (paste into the repo named thisisshivamtiwari). -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisisshivamtiwari" alt="thisisshivamtiwari" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/thisisshivamt" target="blank"><img src="https://img.shields.io/twitter/follow/thisisshivamt?logo=twitter&style=for-the-badge" alt="thisisshivamt" /></a> </p>
-
-- 🔭 I’m currently working on [knowmyhotel](https://knowmyhotel.com)
-
-- 👨‍💻 All of my projects are available at [thisisshivamtiwari.com](thisisshivamtiwari.com)
-
-- 📝 I regularly write articles on [thisisshivamtiwari.com](thisisshivamtiwari.com)
-
-- 📫 How to reach me **thisisshivamt@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/thisisshivamt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thisisshivamt" height="30" width="40" /></a>
-<a href="https://twitter.com/thisisshivamt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thisisshivamt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thisisshivamtiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thisisshivamtiwari" height="30" width="40" /></a>
-<a href="https://fb.com/thisisshivamt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thisisshivamt" height="30" width="40" /></a>
-<a href="https://instagram.com/thisisshivamtiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thisisshivamtiwari" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F5C5A,100:16181D&height=190&section=header&text=Shivam%20Tiwari&fontSize=52&fontColor=F6F3EC&fontAlignY=38&desc=Applied%20AI%20Engineer%20%C2%B7%20Co-founder%2C%20Retvens%20(acquired%202026)&descSize=18&descAlignY=60" alt="Shivam Tiwari — Applied AI Engineer, co-founder of Retvens (acquired 2026)" />
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisshivamtiwari&show_icons=true&locale=en&layout=compact" alt="thisisshivamtiwari" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisshivamtiwari&show_icons=true&locale=en" alt="thisisshivamtiwari" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisshivamtiwari&" alt="thisisshivamtiwari" /></p>
+
+<h3 align="center">I build AI systems that have to pay for themselves.</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/thisisshivamtiwari"><img src="https://img.shields.io/badge/LinkedIn-thisisshivamtiwari-0F5C5A?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shivamtiwari.1527@gmail.com"><img src="https://img.shields.io/badge/Email-shivamtiwari.1527%40gmail.com-16181D?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Birmingham%2C%20UK-B4400F?style=flat-square" alt="Based in Birmingham, UK" />
+</p>
+
+I co-founded a hotel revenue-management company, shipped machine learning to paying customers, shut down an AI product when the unit economics didn't work, and led the company through its acquisition. Today I'm doing an M.Sc. in Data Science & AI at **IIT Madras × University of Birmingham** and building agents, forecasting systems and the full-stack products around them.
+
+<table>
+  <tr>
+    <td align="center" width="25%"><h2>2,000+</h2><sub>paying hotel customers across two AI products</sub></td>
+    <td align="center" width="25%"><h2>~200</h2><sub>hotels on recurring subscription to KnowMyHotel</sub></td>
+    <td align="center" width="25%"><h2>2026</h2><sub>Retvens acquired by RBS Software Solutions</sub></td>
+    <td align="center" width="25%"><h2>&lt;30 s</h2><sub>cloud incident resolution, down from 4–6 h (hackathon winner)</sub></td>
+  </tr>
+</table>
+
+### `$ git log --career --oneline`
+
+```text
+* 2026-02  (tag: acquired)  Retvens Services acquired by RBS Software Solutions — led technical due diligence
+* 2025-11  AI Research Intern, Walmart Center for Tech Excellence, IIT Madras — multi-agent LLM framework for MSME spreadsheets (grade A)
+* 2025-07  M.Sc. Data Science & AI — IIT Madras × University of Birmingham
+* 2025     Winner, Nutanix Hackathon (IIT Madras) · Finalist, UKFinnovator (Imperial College London)
+* 2023-04  (HEAD of Technology)  Co-founded Retvens Services — hotel revenue-management AI, 5 countries, 20+ person team
+* 2022-10  Senior Associate, Engineering @ Thotnr — end-to-end encrypted chat in Kotlin on the Mesibo SDK
+* 2020-11  Senior Operations Executive @ Infosys — SQL schemas for client data pipelines, Selenium UAT automation
+```
+
+### Shipped to production
+
+| Product | What it does | What I built |
+|---|---|---|
+| [**KnowMyHotel**](https://knowmyhotel.com) | AI revenue manager: nightly room-rate suggestions for ~200 subscribed hotels | Occupancy forecaster — LightGBM + XGBoost + Prophet ensemble tuned with Optuna, K-Means++ for cold-start hotels, 15 leakage-safe lag features; pricing changes A/B-tested on live rates (up to 120% revenue uplift at select hotels) |
+| [**HotelAuditReport**](https://hotelauditreport.com) | Automated revenue audits for hotels — most of our 2,000+ paying customers | Anomaly detection over PMS, channel-manager and OTA data, replacing consultant-led reviews |
+
+### Built, measured, and shelved
+
+> **Hotel voice concierge** — an agent that took booking and guest-service calls in English and Hindi against a live PMS: Whisper → tool-calling LLM on a LangGraph state machine → ElevenLabs.
+> It worked. We shut it down before launch because the cost per call was too high to sustain.
+> Knowing when *not* to ship is part of the job.
+
+### Open work
+
+| Repository | Summary |
+|---|---|
+| [**nautilusai**](https://github.com/thisisshivamtiwari/nautilusai) | 🏆 Nutanix Hackathon winner — autonomous cloud-ops agent: telemetry → anomaly detection → on-prem LLM + RAG → YAML remediation via the Prism API |
+| [**excelllm-be**](https://github.com/thisisshivamtiwari/excelllm-be) · [**fe**](https://github.com/thisisshivamtiwari/excelllm-fe) | Multi-agent LLM framework that turns spreadsheet-driven MSME workflows into agent pipelines (Walmart CTE, IIT Madras) |
+| [**kaushalbot**](https://github.com/thisisshivamtiwari/kaushalbot) | Telegram agent that drafts and refines LinkedIn posts — orchestrator/worker agents on LangChain + Gemini, LinkedIn OIDC, MongoDB |
+| [**neetcode-submissions**](https://github.com/thisisshivamtiwari/neetcode-submissions) | Keeping the fundamentals sharp, one problem at a time |
+
+### Stack
+
+**AI & agents** &nbsp;
+<img src="https://img.shields.io/badge/LangGraph-16181D?style=flat-square" alt="LangGraph" />
+<img src="https://img.shields.io/badge/LangChain-16181D?style=flat-square" alt="LangChain" />
+<img src="https://img.shields.io/badge/LlamaIndex-16181D?style=flat-square" alt="LlamaIndex" />
+<img src="https://img.shields.io/badge/MCP-16181D?style=flat-square" alt="MCP" />
+<img src="https://img.shields.io/badge/RAG-16181D?style=flat-square" alt="RAG" />
+<img src="https://img.shields.io/badge/Whisper-16181D?style=flat-square" alt="Whisper" />
+<img src="https://img.shields.io/badge/ElevenLabs-16181D?style=flat-square" alt="ElevenLabs" />
+
+**Machine learning** &nbsp;
+<img src="https://img.shields.io/badge/LightGBM-0F5C5A?style=flat-square" alt="LightGBM" />
+<img src="https://img.shields.io/badge/XGBoost-0F5C5A?style=flat-square" alt="XGBoost" />
+<img src="https://img.shields.io/badge/Prophet-0F5C5A?style=flat-square" alt="Prophet" />
+<img src="https://img.shields.io/badge/Optuna-0F5C5A?style=flat-square" alt="Optuna" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,ts,react,nextjs,vite,tailwind,nodejs,express,fastapi,php,mongodb,redis,mysql&perline=16" alt="Python, PyTorch, TensorFlow, scikit-learn, TypeScript, React, Next.js, Vite, Tailwind, Node.js, Express, FastAPI, PHP, MongoDB, Redis, MySQL" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,flutter,firebase,django,spring,docker,aws,nginx,git,linux,postman,figma&perline=16" alt="Kotlin, Java, Android Studio, Flutter, Firebase, Django, Spring, Docker, AWS, Nginx, Git, Linux, Postman, Figma" />
+</p>
+
+### Open to
+
+Applied AI, forward-deployed and founding-engineer roles — especially where the model has to earn its keep.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16181D,100:0F5C5A&height=90&section=footer" alt="" />
+</p>
