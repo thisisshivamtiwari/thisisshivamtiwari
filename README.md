@@ -56,7 +56,7 @@ Now I'm back in the lab at **IIT Madras** (joint M.Sc. with the University of Bi
 ## Stack
 
 <p align="center">
-  <img src="assets/stack.svg" width="100%" alt="Stack — AI & agents: LangGraph, LangChain, LlamaIndex, MCP, RAG, tool calling, Whisper, ElevenLabs, Gemini. Forecasting & ML: Python, PyTorch, TensorFlow, scikit-learn, LightGBM, XGBoost, Prophet, Optuna. Full stack: TypeScript, React, Next.js, Vite, Tailwind, Node.js, Express, FastAPI, Django, Spring, PHP, MongoDB, Redis, MySQL. Mobile: Kotlin, Java, Jetpack Compose, Flutter, Firebase. Infra & tools: Docker, AWS, Airflow, Nginx, Git, Linux, Postman, Figma." />
+  <img src="assets/tech-stack.svg" width="100%" alt="Stack — AI & agents: LangGraph, LangChain, LlamaIndex, MCP, RAG, tool calling, Whisper, ElevenLabs, Gemini. Forecasting & ML: Python, PyTorch, TensorFlow, scikit-learn, LightGBM, XGBoost, Prophet, Optuna. Full stack: TypeScript, React, Next.js, Vite, Tailwind, Node.js, Express, FastAPI, Django, Spring, PHP, MongoDB, Redis, MySQL. Mobile: Kotlin, Java, Jetpack Compose, Flutter, Firebase. Infra & tools: Docker, AWS, Airflow, Nginx, Git, Linux, Postman, Figma." />
 </p>
 
 <p align="center"><sub><code>~/shivam $ exit 0</code> &nbsp;·&nbsp; built things that shipped, sold, and got acquired</sub></p>
