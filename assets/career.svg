@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700" role="img" aria-label="Career timeline. Feb 2026: Retvens acquired by RBS Software Solutions. Nov 2025: AI Research Intern, Walmart Center for Tech Excellence, IIT Madras. Jul 2025: M.Sc. Data Science and AI, IIT Madras and University of Birmingham. 2025: Winner, Nutanix Hackathon; finalist, UKFinnovator. Apr 2023: co-founded Retvens Services as Head of Technology. Oct 2022: Senior Associate, Engineering, Thotnr. Nov 2020: Senior Operations Executive, Infosys.">
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .in { animation: in .45s ease-out both; }
+    .c1 { animation-delay: .05s } .c2 { animation-delay: .15s } .c3 { animation-delay: .25s } .c4 { animation-delay: .35s }
+    .c5 { animation-delay: .45s } .c6 { animation-delay: .55s } .c7 { animation-delay: .65s }
+    @keyframes in { from { opacity: 0; transform: translateY(10px) } to { opacity: 1; transform: translateY(0) } }
+    .spine { stroke-dasharray: 600; animation: draw 1s ease-out both; }
+    @keyframes draw { from { stroke-dashoffset: 600 } to { stroke-dashoffset: 0 } }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes pulse { 50% { transform: scale(1.6); opacity: .25 } }
+  </style>
+  <rect width="1000" height="700" rx="22" fill="#16181D"/>
+  <text x="40" y="48" class="mono" font-size="15" fill="#7FD1CC">~/shivam $ git log --career</text>
+  <text x="960" y="48" class="mono" font-size="13" fill="#5B5F68" text-anchor="end">HEAD → present</text>
+
+  <line class="spine" x1="500" y1="80" x2="500" y2="670" stroke="#3A3E46" stroke-width="2"/>
+
+  <!-- 1 · acquired (right) -->
+  <g class="in c1">
+    <circle class="pulse" cx="500" cy="112" r="9" fill="#F08A4B"/>
+    <circle cx="500" cy="112" r="7" fill="#F08A4B"/>
+    <text x="478" y="117" class="mono" font-size="13" fill="#F08A4B" text-anchor="end">FEB 2026</text>
+    <rect x="530" y="82" width="430" height="62" rx="12" fill="#F08A4B" fill-opacity="0.12" stroke="#F08A4B"/>
+    <text x="550" y="108" class="sans" font-size="17" font-weight="700" fill="#F6F3EC">Retvens acquired by RBS Software Solutions</text>
+    <text x="550" y="130" class="sans" font-size="13" fill="#D5D8DE">Led technical due diligence and platform integration</text>
+  </g>
+
+  <!-- 2 · walmart (left) -->
+  <g class="in c2">
+    <circle cx="500" cy="196" r="6" fill="#7FD1CC"/>
+    <text x="522" y="201" class="mono" font-size="13" fill="#8E929B">NOV 2025</text>
+    <rect x="40" y="166" width="430" height="62" rx="12" fill="#1E2127" stroke="#2E323A"/>
+    <text x="60" y="192" class="sans" font-size="16" font-weight="700" fill="#F6F3EC">AI Research Intern · Walmart CTE, IIT Madras</text>
+    <text x="60" y="214" class="sans" font-size="13" fill="#B9BCC4">Multi-agent LLM framework for MSME spreadsheets · grade A</text>
+  </g>
+
+  <!-- 3 · IIT Madras (right, highlighted) -->
+  <g class="in c3">
+    <circle class="pulse" cx="500" cy="280" r="9" fill="#1FA39E"/>
+    <circle cx="500" cy="280" r="7" fill="#1FA39E"/>
+    <text x="478" y="285" class="mono" font-size="13" fill="#7FD1CC" text-anchor="end">JUL 2025</text>
+    <rect x="530" y="250" width="430" height="62" rx="12" fill="#1FA39E" fill-opacity="0.14" stroke="#1FA39E"/>
+    <text x="550" y="276" class="sans" font-size="17" font-weight="700" fill="#F6F3EC">IIT Madras × University of Birmingham</text>
+    <text x="550" y="298" class="sans" font-size="13" fill="#D5D8DE">M.Sc. Data Science &amp; Artificial Intelligence (joint)</text>
+  </g>
+
+  <!-- 4 · hackathons (left) -->
+  <g class="in c4">
+    <circle cx="500" cy="364" r="6" fill="#F08A4B"/>
+    <text x="522" y="369" class="mono" font-size="13" fill="#8E929B">2025</text>
+    <rect x="40" y="334" width="430" height="62" rx="12" fill="#1E2127" stroke="#2E323A"/>
+    <text x="60" y="360" class="sans" font-size="16" font-weight="700" fill="#F6F3EC">Winner · Nutanix Hackathon, IIT Madras</text>
+    <text x="60" y="382" class="sans" font-size="13" fill="#B9BCC4">Finalist · UKFinnovator, Imperial College London</text>
+  </g>
+
+  <!-- 5 · founded (right) -->
+  <g class="in c5">
+    <circle cx="500" cy="448" r="7" fill="#F6F3EC"/>
+    <text x="478" y="453" class="mono" font-size="13" fill="#D5D8DE" text-anchor="end">APR 2023</text>
+    <rect x="530" y="418" width="430" height="62" rx="12" fill="#1E2127" stroke="#F6F3EC" stroke-opacity="0.5"/>
+    <text x="550" y="444" class="sans" font-size="17" font-weight="700" fill="#F6F3EC">Co-founded Retvens · Head of Technology</text>
+    <text x="550" y="466" class="sans" font-size="13" fill="#B9BCC4">2,000+ paying hotels · 5 countries · 20+ person team</text>
+  </g>
+
+  <!-- 6 · thotnr (left) -->
+  <g class="in c6">
+    <circle cx="500" cy="532" r="6" fill="#8E929B"/>
+    <text x="522" y="537" class="mono" font-size="13" fill="#8E929B">OCT 2022</text>
+    <rect x="40" y="502" width="430" height="62" rx="12" fill="#1E2127" stroke="#2E323A"/>
+    <text x="60" y="528" class="sans" font-size="16" font-weight="700" fill="#F6F3EC">Senior Associate, Engineering · Thotnr</text>
+    <text x="60" y="550" class="sans" font-size="13" fill="#B9BCC4">End-to-end encrypted chat · Kotlin · Mesibo SDK</text>
+  </g>
+
+  <!-- 7 · infosys (right) -->
+  <g class="in c7">
+    <circle cx="500" cy="616" r="6" fill="#8E929B"/>
+    <text x="478" y="621" class="mono" font-size="13" fill="#8E929B" text-anchor="end">NOV 2020</text>
+    <rect x="530" y="586" width="430" height="62" rx="12" fill="#1E2127" stroke="#2E323A"/>
+    <text x="550" y="612" class="sans" font-size="16" font-weight="700" fill="#F6F3EC">Senior Operations Executive · Infosys</text>
+    <text x="550" y="634" class="sans" font-size="13" fill="#B9BCC4">SQL schemas for client pipelines · Selenium UAT</text>
+  </g>
+</svg>
