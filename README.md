@@ -55,41 +55,8 @@ Now I'm back in the lab at **IIT Madras** (joint M.Sc. with the University of Bi
 
 ## Stack
 
-<table>
-  <tr>
-    <td width="22%"><b>AI & agents</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/LangGraph-16181D?style=flat-square" alt="LangGraph" />
-      <img src="https://img.shields.io/badge/LangChain-16181D?style=flat-square" alt="LangChain" />
-      <img src="https://img.shields.io/badge/LlamaIndex-16181D?style=flat-square" alt="LlamaIndex" />
-      <img src="https://img.shields.io/badge/MCP-16181D?style=flat-square" alt="MCP" />
-      <img src="https://img.shields.io/badge/RAG-16181D?style=flat-square" alt="RAG" />
-      <img src="https://img.shields.io/badge/Whisper-16181D?style=flat-square" alt="Whisper" />
-      <img src="https://img.shields.io/badge/ElevenLabs-16181D?style=flat-square" alt="ElevenLabs" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Forecasting & ML</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" alt="Python, PyTorch, TensorFlow, scikit-learn" />
-      <img src="https://img.shields.io/badge/LightGBM-0F5C5A?style=flat-square" alt="LightGBM" />
-      <img src="https://img.shields.io/badge/XGBoost-0F5C5A?style=flat-square" alt="XGBoost" />
-      <img src="https://img.shields.io/badge/Prophet-0F5C5A?style=flat-square" alt="Prophet" />
-      <img src="https://img.shields.io/badge/Optuna-0F5C5A?style=flat-square" alt="Optuna" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Full stack</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,nodejs,express,fastapi,django,spring,php,mongodb,redis,mysql" alt="TypeScript, React, Next.js, Vite, Tailwind, Node.js, Express, FastAPI, Django, Spring, PHP, MongoDB, Redis, MySQL" /></td>
-  </tr>
-  <tr>
-    <td><b>Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,flutter,firebase" alt="Kotlin, Java, Android Studio, Flutter, Firebase" /></td>
-  </tr>
-  <tr>
-    <td><b>Infra & tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,aws,nginx,git,linux,postman,figma" alt="Docker, AWS, Nginx, Git, Linux, Postman, Figma" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/stack.svg" width="100%" alt="Stack — AI & agents: LangGraph, LangChain, LlamaIndex, MCP, RAG, tool calling, Whisper, ElevenLabs, Gemini. Forecasting & ML: Python, PyTorch, TensorFlow, scikit-learn, LightGBM, XGBoost, Prophet, Optuna. Full stack: TypeScript, React, Next.js, Vite, Tailwind, Node.js, Express, FastAPI, Django, Spring, PHP, MongoDB, Redis, MySQL. Mobile: Kotlin, Java, Jetpack Compose, Flutter, Firebase. Infra & tools: Docker, AWS, Airflow, Nginx, Git, Linux, Postman, Figma." />
+</p>
 
 <p align="center"><sub><code>~/shivam $ exit 0</code> &nbsp;·&nbsp; built things that shipped, sold, and got acquired</sub></p>
