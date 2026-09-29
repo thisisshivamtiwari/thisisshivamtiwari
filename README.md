@@ -56,7 +56,7 @@ Now I'm back in the lab at **IIT Madras** (joint M.Sc. with the University of Bi
 ## Stack
 
 <p align="center">
-  <img src="assets/tech-stack-icons.svg" width="100%" alt="Tech stack: LangGraph, LangChain, MCP, ElevenLabs, Gemini, Python, PyTorch, TensorFlow, scikit-learn, Optuna, TypeScript, React, Next.js, Vite, Tailwind CSS, Node.js, Express, FastAPI, Django, Spring, PHP, MongoDB, Redis, MySQL, Kotlin, Java, Jetpack Compose, Flutter, Firebase, Docker, Airflow, Nginx, Git, Linux, Postman, Figma" />
+  <img src="assets/tech-stack-named.svg" width="100%" alt="Tech stack: LangGraph, LangChain, MCP, ElevenLabs, Gemini, Python, PyTorch, TensorFlow, scikit-learn, Optuna, TypeScript, React, Next.js, Vite, Tailwind CSS, Node.js, Express, FastAPI, Django, Spring, PHP, MongoDB, Redis, MySQL, Kotlin, Java, Jetpack Compose, Flutter, Firebase, Docker, Airflow, Nginx, Git, Linux, Postman, Figma" />
 </p>
 
 <p align="center"><sub><code>~/shivam $ exit 0</code> &nbsp;·&nbsp; built things that shipped, sold, and got acquired</sub></p>
