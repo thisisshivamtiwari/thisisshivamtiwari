@@ -1,62 +1,34 @@
-<!-- Profile README for github.com/thisisshivamtiwari.
-     Copy this file AND the assets/ folder into the repo named thisisshivamtiwari. -->
+# Shivam Tiwari
 
-<p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Shivam Tiwari — Applied AI Engineer, co-founder of Retvens (acquired 2026), M.Sc. Data Science & AI at IIT Madras × University of Birmingham" />
-</p>
+Applied AI engineer and co-founder. I build forecasting, pricing and LLM-agent systems that run in production for paying customers.
 
-<p align="center">
-  <a href="https://linkedin.com/in/thisisshivamtiwari"><img src="https://img.shields.io/badge/LinkedIn-thisisshivamtiwari-0F5C5A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:shivamtiwari.1527@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-16181D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/IIT%20Madras-M.Sc.%20DS%20%26%20AI-8B1A1A?style=for-the-badge" alt="IIT Madras — M.Sc. Data Science & AI" />
-</p>
+[LinkedIn](https://linkedin.com/in/thisisshivamtiwari) · [Email](mailto:shivamtiwari.1527@gmail.com) · Birmingham, UK
 
-## About
+## Now
 
-I'm an engineer-founder. In 2023 I co-founded **Retvens**, a hotel revenue-management AI company. We grew it to **2,000+ paying hotel customers** across five countries, and in February 2026 I led it through its **acquisition by RBS Software Solutions**.
+- **Applied AI Product Lead, RBS** (since February 2026). Building AI agents, agentic-coding workflows and MCP tooling used across RBS's products, and extending KnowMyHotel with new property-management-system integrations and competitor-set and local-events data.
+- **M.Sc. Data Science and AI**, joint degree from IIT Madras and the University of Birmingham, finishing January 2027.
 
-Along the way I built the forecasting engine that priced rooms every night for ~200 subscribed hotels, hired a 20+ person team, and made the hardest call a builder makes: shutting down an AI product that worked, because it didn't pay.
+## Background
 
-Now I'm back in the lab at **IIT Madras** (joint M.Sc. with the University of Birmingham), going deeper on LLM agents, forecasting and the full-stack products that carry them to real users.
+In 2023 I co-founded **Retvens**, a hotel revenue-management AI company, and ran its technology. It grew to 2,000+ paying hotels across five countries and a team of 20+, and was acquired by RBS in February 2026; I led the technical due diligence. Before that I built end-to-end encrypted chat for Android at Thotnr and worked on SQL data pipelines and test automation at Infosys.
 
-<p align="center">
-  <img src="assets/stats.svg" width="100%" alt="2,000+ paying hotel customers · ~200 hotels on subscription · acquired 2026 · incidents resolved in under 30 seconds" />
-</p>
+## Selected work
 
-## Career
-
-<p align="center">
-  <img src="assets/career.svg" width="100%" alt="Career timeline: Infosys (2020), Thotnr (2022), co-founded Retvens (2023), Nutanix Hackathon winner (2025), IIT Madras × University of Birmingham (2025), Walmart CTE research intern (2025), Retvens acquired by RBS (2026)" />
-</p>
-
-## Shipped to production
-
-| Product | What it does | What I built |
+| Project | What it is | My part |
 |---|---|---|
-| [**KnowMyHotel**](https://knowmyhotel.com) | AI revenue manager: nightly room-rate suggestions for ~200 subscribed hotels | Occupancy forecaster: **LightGBM + XGBoost + Prophet** ensemble tuned with Optuna, K-Means++ for hotels with no history, 15 leakage-safe lag features. Pricing changes A/B-tested on live room rates, up to **120% revenue uplift** at select hotels. |
-| [**HotelAuditReport**](https://hotelauditreport.com) | Automated revenue audits, bought by most of our 2,000+ paying customers | Anomaly detection across PMS, channel-manager and OTA data that replaced consultant-led audits. |
+| [KnowMyHotel](https://knowmyhotel.com) | AI revenue manager giving nightly room-rate suggestions to about 200 subscribed hotels | Built the occupancy forecaster: a LightGBM, XGBoost and Prophet ensemble tuned with Optuna and walk-forward validation, K-Means++ clustering for hotels with no history, and 15 leakage-safe lag and rolling features. Pricing changes were A/B-tested on live room rates, with up to 120% revenue uplift at select hotels. |
+| [HotelAuditReport](https://hotelauditreport.com) | Automated revenue audits for hotels | Anomaly detection across PMS, channel-manager and OTA data, replacing consultant-led audits. |
+| [Nautilus AI](https://github.com/thisisshivamtiwari/nautilusai) | Winner, Nutanix Hackathon at IIT Madras | Autonomous cloud-operations agent: live telemetry, anomaly detection, an on-premise LLM with RAG, and YAML remediation through the Nutanix Prism API. Cut time to resolution from 4–6 hours to under 30 seconds in the live demo. |
+| [ExcelLLM](https://github.com/thisisshivamtiwari/excelllm-be) ([frontend](https://github.com/thisisshivamtiwari/excelllm-fe)) | Research internship, Walmart Center for Tech Excellence, IIT Madras | Multi-agent LLM framework that turns spreadsheet-driven workflows at small businesses into agent pipelines. |
+| Hotel voice agent | Prototype, Retvens | English and Hindi booking and guest-service calls against a live PMS (Whisper, LangGraph, ElevenLabs). Shelved before launch because the cost per call was too high. |
+| [kaushalbot](https://github.com/thisisshivamtiwari/kaushalbot) | Telegram agent for LinkedIn posts | Orchestrator and worker agents on LangChain and Gemini, with LinkedIn sign-in and MongoDB. |
 
-## Built, measured, shelved
-
-> [!NOTE]
-> **Hotel voice concierge** — took booking and guest-service calls in English and Hindi against a live PMS.
-> `Whisper` → tool-calling LLM on a `LangGraph` state machine → `ElevenLabs`.
-> It worked. We shut it down before launch because the cost per call was too high to sustain.
-> Knowing when *not* to ship is part of the job.
-
-## Open work
-
-| Repository | What it is |
-|---|---|
-| [**nautilusai**](https://github.com/thisisshivamtiwari/nautilusai) 🏆 | **Nutanix Hackathon winner.** Autonomous cloud-ops agent: telemetry → anomaly detection → on-prem LLM + RAG → YAML remediation through the Prism API. Incidents resolved in **under 30 s**, down from 4–6 h. |
-| [**excelllm-be**](https://github.com/thisisshivamtiwari/excelllm-be) · [**fe**](https://github.com/thisisshivamtiwari/excelllm-fe) | Multi-agent LLM framework that turns spreadsheet-driven MSME workflows into agent pipelines. Walmart CTE, IIT Madras. |
-| [**kaushalbot**](https://github.com/thisisshivamtiwari/kaushalbot) | Telegram agent that drafts and refines LinkedIn posts: orchestrator/worker agents on LangChain + Gemini, LinkedIn OIDC, MongoDB. |
-| [**neetcode-submissions**](https://github.com/thisisshivamtiwari/neetcode-submissions) | Fundamentals, kept sharp daily. |
+Also: finalist, UKFinnovator Innovation Competition at Imperial College London (LLM and multi-agent pipeline for ESG data).
 
 ## Stack
 
-<p align="center">
-  <img src="assets/tech-stack-named.svg" width="100%" alt="Tech stack: LangGraph, LangChain, MCP, ElevenLabs, Gemini, Python, PyTorch, TensorFlow, scikit-learn, Optuna, TypeScript, React, Next.js, Vite, Tailwind CSS, Node.js, Express, FastAPI, Django, Spring, PHP, MongoDB, Redis, MySQL, Kotlin, Java, Jetpack Compose, Flutter, Firebase, Docker, Airflow, Nginx, Git, Linux, Postman, Figma" />
-</p>
-
-<p align="center"><sub><code>~/shivam $ exit 0</code> &nbsp;·&nbsp; built things that shipped, sold, and got acquired</sub></p>
+**AI and ML:** Python, PyTorch, scikit-learn, LightGBM, XGBoost, Prophet, Optuna, LangGraph, LangChain, MCP, RAG
+**Product engineering:** TypeScript, React, Next.js, Vite, Tailwind CSS, Node.js, Express, FastAPI, PHP, MongoDB, Redis, MySQL
+**Mobile:** Kotlin, Java, Jetpack Compose, Firebase
+**Infrastructure:** Docker, Airflow, Nginx, Linux, Git
